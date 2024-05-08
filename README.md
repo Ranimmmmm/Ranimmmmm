@@ -1,7 +1,8 @@
 - 👋 Hey there! I'm Ranimmmmm, a dedicated MERN stack developer passionate about crafting innovative web solutions. Let's connect and build something awesome!
 - 👩‍💻 Playing with JavaScript, React, Node.js ,MongoDb , Next.js.
 - 🌱 I'm currently diving deeper into React and exploring Next.js to enhance my skills and build even more dynamic and efficient web applications.
-💞️ Excited to team up on beginner-friendly MERN stack projects! Let's showcase skills, learn together, and build something awesome!-
+- 💞️ Excited to team up on beginner-friendly MERN stack projects! Let's showcase skills, learn together, and build something awesome!-
+
 
 
 
