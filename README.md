@@ -11,9 +11,6 @@
 ### Data Spells
 ![Data Spells](https://skillicons.dev/icons?i=mongodb,mysql)  
 
-### Design
-![Design](https://skillicons.dev/icons?i=figma,illustrator,photoshop)  
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
