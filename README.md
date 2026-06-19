@@ -6,7 +6,7 @@
 ![Frontend Magic](https://skillicons.dev/icons?i=js,ts,react,css,tailwind)
 
 ### Backend Magic 
-![Backend Tricks](https://skillicons.dev/icons?i=nodejs,expressjs)
+![Backend Tricks](https://skillicons.dev/icons?i=nodejs,expressjs,python)
 
 ### Data Spells
 ![Data Spells](https://skillicons.dev/icons?i=mongodb,mysql)  
