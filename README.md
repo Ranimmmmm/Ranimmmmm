@@ -3,13 +3,13 @@
 
 
 ### Frontend Magic
-![Frontend Magic](https://skillicons.dev/icons?i=js,ts,react,css,tailwind)
+![Frontend Magic](https://skillicons.dev/icons?i=js,ts,react,nextjs)
 
 ### Backend Magic 
 ![Backend Tricks](https://skillicons.dev/icons?i=nodejs,expressjs,python)
 
 ### Data Spells
-![Data Spells](https://skillicons.dev/icons?i=mongodb,mysql)  
+![Data Spells](https://skillicons.dev/icons?i=mongodb,mysql,postgresql)  
 
 ## My Statistics
 
