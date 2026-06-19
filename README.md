@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Ranim, a entry full stack developer passionate about crafting innovative web solutions. Let's connect and build something awesome!<br>- 👩‍💻 Playing with JavaScript, TypeScript, React, Node.js ,MongoDB , Next.js.<br>- 🌱 I'm currently diving deeper into React and exploring Next.js to enhance my skills and build even more dynamic and efficient web applications.<br>- 🤝 Excited to team up on beginner-friendly MERN stack projects! Let's showcase skills, learn together, and build something awesome!-<br>
+👋 Hey there! I'm a full stack developer passionate about crafting innovative web solutions. Let's connect and build something awesome!<br>- 👩‍💻 Playing with JavaScript, TypeScript, React, Node.js ,MongoDB , Next.js.<br>- 🌱 I'm currently diving deeper into React and exploring Next.js to enhance my skills and build even more dynamic and efficient web applications.<br>- 🤝 Excited to team up on projects! Let's showcase skills, learn together, and build something awesome!-<br>
 
 
 ### Frontend Magic
